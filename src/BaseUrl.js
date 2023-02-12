@@ -1,0 +1,1 @@
+export const BASE_URL = "https://blue-journalist-bbrpv.ineuron.app:4000"
